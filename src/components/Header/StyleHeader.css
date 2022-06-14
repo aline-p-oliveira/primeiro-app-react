@@ -1,0 +1,16 @@
+.cabecalho {
+    background-color: cornflowerblue;
+  }
+  
+  .conteudo-principal {
+    font-family: sans-serif;
+    color: blue;
+  }
+  
+  .lista-links {
+    display: flex;
+    flex-direction: column;
+    font-size: 18px;
+    font-family: sans-serif;
+    text-align: center;
+  }
